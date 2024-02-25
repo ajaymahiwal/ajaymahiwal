@@ -1,6 +1,4 @@
-<a target="_blank" href="https://www.instagram.com/ajaymahiwal05/">
-<img src="https://camo.githubusercontent.com/cceb98265f0226a790be96288cd9753481531c3908c6ca4e636f42f258c7f350/68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f75706c6f6164732f61727469636c65732f3871697963626678766d317730726469376565332e676966" style="max-width:100%;"/>
-</a>
+
 
 <img src="./ajaymahiwal.gif" style="max-width:100%;" alt="my-gif">
 <h1 align="center">HELLO, Ajay Mahiwal here👋</h1>
